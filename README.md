@@ -23,15 +23,6 @@ Soy un estudiante de desarrollo de software de Colombia apasionado por la progra
 🚀 Actualmente estoy fortaleciendo mis habilidades en:
 </p>
 
-<ul>
-  <li>Python</li>
-  <li>JavaScript</li>
-  <li>HTML y CSS</li>
-  <li>Git y GitHub</li>
-  <li>Bases de datos SQL</li>
-  <li>APIs y desarrollo web</li>
-</ul>
-
 <p align="left">
 📚 Me gusta aprender creando proyectos reales, explorar nuevas tecnologías y mejorar constantemente mis conocimientos en desarrollo de software.
 <br><br>
