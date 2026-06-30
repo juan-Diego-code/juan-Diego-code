@@ -58,12 +58,6 @@ Mi meta es seguir creciendo como desarrollador Full Stack.
 ---
 
 ### Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juan-Diego-code&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juan-Diego-code&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=juan-Diego-code&theme=tokyonight&hide_border=true" height="165" />
 </div>
